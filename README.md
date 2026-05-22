@@ -114,9 +114,13 @@ It contributed to warehouse optimization and demand planning decisions.
 
 # Analytical Techniques Used 
 	1. A Time-Series Trend Analysis.
+	
 	2. The Benchmark of KPI.
+	
 	3. Analysis based on Revenue Concentration.
+	
 	4. The Margin & Cost Ratio Evaluation.
+	
 	5. Inventory Turnover Analysis.
 	
 
