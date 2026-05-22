@@ -71,6 +71,7 @@ KPIs Designed:
  Business Impact:
 It enabled the pricing evaluation, supplier strategy optimization, and regional performance monitoring.
 
+
 2. Profit & Cost Optimization Layer
 KPIs Designed:
 	a.	Total Profit
@@ -89,6 +90,7 @@ The Insights :
   iii.	High-performing product categories isolated
 Business Impact:
 It improved the cost management visibility and product profitability analysis.
+
 
 3. Operations & Inventory Layer
 KPIs Designed:
