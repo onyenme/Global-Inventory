@@ -112,16 +112,17 @@ Business Impact:
 It contributed to warehouse optimization and demand planning decisions.
 
 
-# Analytical Techniques Used 
-	1. A Time-Series Trend Analysis.
+# Analytical Techniques Used:
 	
-	2. The Benchmark of KPI.
+1. A Time-Series Trend Analysis.
 	
-	3. Analysis based on Revenue Concentration.
+2. The Benchmark of KPI.
 	
-	4. The Margin & Cost Ratio Evaluation.
+3. Analysis based on Revenue Concentration.
 	
-	5. Inventory Turnover Analysis.
+4. The Margin & Cost Ratio Evaluation.
+
+5. Inventory Turnover Analysis.
 	
 
 # Strategic Value
