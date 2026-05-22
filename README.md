@@ -112,12 +112,14 @@ Business Impact:
 It contributed to warehouse optimization and demand planning decisions.
 
 
-# Analytical Techniques Used
-	1.	Time-Series Trend Analysis
-	2.	KPI Benchmarking
-	3. Revenue Concentration Analysis
-	4.	Margin & Cost Ratio Evaluation
-	5.	Inventory Turnover Analysis
-	6.	Geographic Performance Segmentation
-Strategic Value
+# Analytical Techniques Used 
+	1.	A Time-Series Trend Analysis.
+	2.	The KPI Benchmarking.
+	3. Revenue Concentration Analysis.
+	4.	Margin & Cost Ratio Evaluation.
+	5.	Inventory Turnover Analysis.
+	6.	Geographic Performance Segmentation.
+
+
+# Strategic Value
 This dashboard integrates financial and operational metrics into a unified reporting framework which transforms raw data into structured form and decisions can be carried out accurately.
